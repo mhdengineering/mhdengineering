@@ -16,9 +16,7 @@
   <br />
   🎓 Currently a high school student.
   <br />
-  <br />
   💻 I love to learn new technologies and frameworks.
-  <br />
   <br />
   🧑‍💼 I’m currently a freelancer working as a Next.js developer.
   <br />
@@ -45,14 +43,15 @@
           <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=dark" />
           <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" />
           <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
-      </picture>
-      <br />
-      <!-- second row -->
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
-        <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />
-      </picture>
+        </picture>
+          <br />
+          <!-- second row -->
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
+            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />
+        </picture>
+
   </a>
 </p>
 <br />
@@ -65,7 +64,7 @@
           <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=dark' />
           <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=light' />
           <img src='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify' alt="learning" />
-      </picture>
+        </picture>
   </a>
 <br />
 <a href="https://www.logalert.app">
@@ -85,9 +84,10 @@
   </picture>
   <br />
   <br />
+  <br />
 </div>
 
-<hr />
+  <hr />
 
 <!-- stats -->
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -126,7 +126,56 @@
 
 <hr />
 
-<!-- repositories link -->
+<!-- repositories -->
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br />
+<!-- first row -->
+<div width="100%" align="center">
+  <!-- repo 1 -->
+  <a align="right" href="https://github.com/mhdengineering/duolingo-clone" title="Duolingo Clone">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=duolingo-clone&theme=react&border_color=61dafb&border_radius=10.0" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=duolingo-clone&theme=graywhite&border_radius=10.0" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=duolingo-clone&theme=graywhite&border_radius=10.0" alt="mhdengineering's repository stats - Duolingo Clone" />
+    </picture>
+  </a>
+
+  <!-- repo 2 -->
+  <a align="left" href="https://github.com/mhdengineering/3d-portfolio" title="3D Portfolio">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=3d-portfolio&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=3d-portfolio&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="mhdengineering's repository stats - 3D portfolio" />
+    </picture>
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<!-- second row -->
+<div width="100%" align="center">
+  <!-- repo 3 -->
+  <a align="left" href="https://github.com/mhdengineering/mern-admin" title="MERN Admin Dashboard">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=mern-admin&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=mern-admin&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=mern-admin&theme=graywhite&border_radius=10" alt="mhdengineering's repository stats - MERN Admin Dashboard" />
+    </picture>
+  </a>
+
+  <!-- repo 4 -->
+  <a align="right" href="https://github.com/mhdengineering/brainwave" title="Brainwave SaaS Landing Page">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=brainwave&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=brainwave&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=brainwave&theme=graywhite&border_radius=10" alt="mhdengineering's repository stats - Brainwave SaaS Landing Page" />
+    </picture>
+  </a>
+</div>
+
+<!-- spaces -->
+
+<br /><br /><br /><br /><br /><br />
+
+<!-- show more repos -->
 <h4 align="center">
-  <a href="https://github.com/mhdengineering?tab=repositories" title="Show Repositories">🔎 Lihat Semua Repositori 🔍</a>
+  <a href="https://github.com/mhdengineering?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
