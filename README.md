@@ -1,134 +1,181 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=header)
+<!-- profile view count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=mhdengineering">
 
-
-
-
-###
-
-<h2 align="center">&lt;Olá, eu sou a Suiane Henrichs!/&gt;</h2>
-
-###
-
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F736CA&background=FF56FF00&center=true&width=435&lines=Aspiring+Full-Stack+Developer+" alt="Typing SVG" /></a>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/suianehenrichs" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://imgur.com/jKkNHgw.png" alt="LinkedIn" style="border: none; outline: none; margin-right: 40px;" />
+<!-- introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+mhdengineering+Here!;&center=true&font=Righteous&size=35">
   </a>
-  <a href="https://www.tiktok.com/@s.henrichs.tech" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://imgur.com/bNwVY6P.png" alt="TikTok" style="border: none; outline: none; margin-right: 44px;" />
-  </a>
-  <a href="mailto:suianehenrichs@gmail.com" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://imgur.com/s3EST1a.png" alt="E-mail" style="border: none; outline: none;" />
-  </a>
-</div>
+</h1>
 
-
-
-
-
-
-###
-
-<br clear="both">
-
-<img align="right" height="430" src="https://i.imgur.com/C4BmKgw.png"  />
-
-###
-
-
-
-<p align="left">🌍 Sou do Rio de Janeiro, Brasil<br>🎓 Estudante de Sistemas de Informação<br>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript, Python e Java<br>✨ Criando projetos para aprimorar minhas habilidades</p>
-
-###
-
-<h3 align="left"> Linguagens e Ferramentas</h3>
-
-###
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
-</div>
-
-###
-
-<h3 align="left">Repositório de Projetos </h3>
-
-###
-
-<p align="left">
- <b>Frontend</b> - Designs e interfaces com HTML, CSS e JavaScript<br>
- <b>Python</b> - Projetos e desafios em Python<br>
- <b>SQL</b> - Consultas e banco de dados<br>
- <b>Desafios</b> - Exercícios para melhorar habilidades de código<br>
- <b>Aprendizado</b> - Anotações e mini-projetos
+<br />
+<!-- about me -->
+<p align="center">
+  Hi, I'm mhdengineering, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from Lampung Timur, Indonesia 🇮🇩.
+  <br />
+  <br />
+  🎓 Currently a high school student.
+  <br />
+  💻 I love to learn new technologies and frameworks.
+  <br />
+  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
+  <br />
 </p>
 
-
-###
-
-###
-###
-
-## <h3 align="left"> Bootcamps e Programas </h3>
-
-<p align="left"> Atualmente estou participando dos seguintes bootcamps e programas de capacitação:</p>
-
-
-
-<div align="left">
- 📊 <b>&lt;Hello, ONE!&gt; </b> - Programa da Oracle + Alura com formação em Data Science e Análise de Dados<br>
- 📈 <b>EY Empodera [Eu Capacito]</b> - Programa da Ernst & Young em parceria com a Fiap com trilha em Dados<br>
- 🎓 <b>DIO Campus Expert</b> - Programa de Embaixadores da <a href="https://www.dio.me">Digital Innovation One</a><br>
- ☕ <b>Bootcamp Java Developer</b> - Formação em desenvolvimento backend com Java pela <a href="https://www.dio.me">DIO</a><br>
- ☁ <b>Bootcamp AWS Cloud Fundamentals</b> - Aprendizado sobre computação em nuvem na <a href="https://www.dio.me">DIO</a><br>
- 
+<!-- social handles -->
+<div align="center"> 
+  <!-- twitter -->
+  <a href="https://x.com/mhdengineering" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
+  <!-- gmail -->
+  <a href="mailto:mhdengineering@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- linkedin -->
+  <a href="https://www.linkedin.com/in/mhdengineering" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<hr />
+<!-- skills -->
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+      <!-- first row -->
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
+        </picture>
+          <br />
+          <!-- second row -->
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
+            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />
+        </picture>
 
-<h3 align="center"> Status  </h3>
+  </a>
+</p>
+<br />
 
+<!-- deployment -->
+<h3 align="center">Deployment</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=dark' />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=light' />
+          <img src='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify' alt="learning" />
+        </picture>
+  </a>
+<br />
+<a href="https://www.logalert.app">
+  <img src='https://img.shields.io/badge/Log-Alert-ca3e54?labelColor=5512ca&style=for-the-badge' alt="learning" />
+</a>
+</p>
+<hr />
+
+<!-- snake graph -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuianeHenrichs1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=en&hide_border=false" height="135" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuianeHenrichs1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=ambient_gradient&hide_border=false" height="135" alt="languages graph"  />
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mhdengineering/mhdengineering/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/mhdengineering/mhdengineering/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/mhdengineering/mhdengineering/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
 </div>
 
+  <hr />
 
+<!-- stats -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br />
+<p align=center>
+<!-- first row -->
+  <div align=center>
+  <!-- streak stats -->
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=mhdengineering&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=mhdengineering&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=mhdengineering&theme=default&border=61dafb" alt="mhdengineering's streak stats" />
+      </picture>
+    </a>
+  <!-- github stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mhdengineering&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=mhdengineering&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mhdengineering&show_icons=true&theme=default&border_color=61dafb" alt="mhdengineering's github stats" />
+      </picture>
+    </a>
+  </div>
+  <!-- spaces -->
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mhdengineering&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mhdengineering&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhdengineering&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="mhdengineering's contribution graph" />
+    </picture>
+  </a>
+</p>
 
+<hr />
 
-###
-###
-###
+<!-- repositories -->
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br />
+<!-- first row -->
+<div width="100%" align="center">
+  <!-- repo 1 -->
+  <a align="right" href="https://github.com/mhdengineering/duolingo-clone" title="Duolingo Clone">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=duolingo-clone&theme=react&border_color=61dafb&border_radius=10.0" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=duolingo-clone&theme=graywhite&border_radius=10.0" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=duolingo-clone&theme=graywhite&border_radius=10.0" alt="mhdengineering's repository stats - Duolingo Clone" />
+    </picture>
+  </a>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SuianeHenrichs1.SuianeHenrichs1&left_color=violet&right_color=cornflowerblue"  />
+  <!-- repo 2 -->
+  <a align="left" href="https://github.com/mhdengineering/3d-portfolio" title="3D Portfolio">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=3d-portfolio&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=3d-portfolio&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="mhdengineering's repository stats - 3D portfolio" />
+    </picture>
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<!-- second row -->
+<div width="100%" align="center">
+  <!-- repo 3 -->
+  <a align="left" href="https://github.com/mhdengineering/mern-admin" title="MERN Admin Dashboard">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=mern-admin&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=mern-admin&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=mern-admin&theme=graywhite&border_radius=10" alt="mhdengineering's repository stats - MERN Admin Dashboard" />
+    </picture>
+  </a>
+
+  <!-- repo 4 -->
+  <a align="right" href="https://github.com/mhdengineering/brainwave" title="Brainwave SaaS Landing Page">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=brainwave&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=brainwave&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhdengineering&repo=brainwave&theme=graywhite&border_radius=10" alt="mhdengineering's repository stats - Brainwave SaaS Landing Page" />
+    </picture>
+  </a>
 </div>
 
-###
+<!-- spaces -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
+<br /><br /><br /><br /><br /><br />
+
+<!-- show more repos -->
+<h4 align="center">
+  <a href="https://github.com/mhdengineering?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
