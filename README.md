@@ -1,48 +1,132 @@
+<!-- profile view count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=mhdengineering">
+
+<!-- introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+mhdengineering+Here!;&center=true&font=Righteous&size=35">
+  </a>
+</h1>
+
+<br />
+<!-- about me -->
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmhdengineering&count_bg=%23007acc&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" align="right"/>
+  Hi, I'm mhdengineering, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from Lampung Timur, Indonesia 🇮🇩.
+  <br />
+  <br />
+  🎓 Currently a high school student.
+  <br />
+  <br />
+  💻 I love to learn new technologies and frameworks.
+  <br />
+  <br />
+  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
+  <br />
 </p>
 
-# <p align="center">Hi, I'm Mahindra 👋</p>
-<p align="center">💻 <b>Software Developer | Computer Vision & Mobile Integration Specialist</b></p>
+<!-- social handles -->
+<div align="center"> 
+  <!-- twitter -->
+  <a href="https://x.com/mhdengineering" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
+  <!-- gmail -->
+  <a href="mailto:contact@mhdengineering.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- linkedin -->
+  <a href="https://www.linkedin.com/in/mhdengineering" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
----
-
-### 👨‍💻 About Me
-- 🔭 Currently developing a **Hand-Gesture-Based Digital Communication Tool** for speech assistance.
-- 🚗 Building a computer vision system for **Driver Drowsiness Detection** with automated voice warnings.
-- 📱 Managing and developing **Siskeudesmobile** using Firebase integration.
-- 🏡 Working on a village cooperative web application: **Koperasi Desa Merah Putih**.
-- 📍 Based in **Lampung Timur, Indonesia**.
-
----
-
-### 🛠️ Languages - Frameworks - Tools
+<hr />
+<!-- skills -->
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br />
 <p align="center">
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <!-- OpenCV -->
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <!-- MediaPipe -->
-  <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=for-the-badge&logo=google&logoColor=white" />
-  <!-- Next.js -->
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <!-- React -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <!-- Firebase -->
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <a href="https://skillicons.dev">
+      <!-- first row -->
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=dark" />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
+      </picture>
+      <br />
+      <!-- second row -->
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
+        <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />
+      </picture>
+  </a>
+</p>
+<br />
+
+<!-- deployment -->
+<h3 align="center">Deployment</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=dark' />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=light' />
+          <img src='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify' alt="learning" />
+      </picture>
+  </a>
+<br />
+<a href="https://www.logalert.app">
+  <img src='https://img.shields.io/badge/Log-Alert-ca3e54?labelColor=5512ca&style=for-the-badge' alt="learning" />
+</a>
+</p>
+<hr />
+
+<!-- snake graph -->
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mhdengineering/mhdengineering/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/mhdengineering/mhdengineering/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/mhdengineering/mhdengineering/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+</div>
+
+<hr />
+
+<!-- stats -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br />
+<p align=center>
+<!-- first row -->
+  <div align=center>
+  <!-- streak stats -->
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=mhdengineering&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=mhdengineering&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=mhdengineering&theme=default&border=61dafb" alt="mhdengineering's streak stats" />
+      </picture>
+    </a>
+  <!-- github stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mhdengineering&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=mhdengineering&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mhdengineering&show_icons=true&theme=default&border_color=61dafb" alt="mhdengineering's github stats" />
+      </picture>
+    </a>
+  </div>
+  <!-- spaces -->
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mhdengineering&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mhdengineering&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhdengineering&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="mhdengineering's contribution graph" />
+    </picture>
+  </a>
 </p>
 
----
+<hr />
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhdengineering&show_icons=true&theme=tokyonight&count_private=true" alt="Mahindra's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdengineering&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🐍 Snake Eating My Contribution
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mhdengineering/mhdengineering/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+<!-- repositories link -->
+<h4 align="center">
+  <a href="https://github.com/mhdengineering?tab=repositories" title="Show Repositories">🔎 Lihat Semua Repositori 🔍</a>
+</h4>
