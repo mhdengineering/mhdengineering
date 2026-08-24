@@ -11,10 +11,12 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm mhdengineering, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from Lampung Timur, Indonesia 🇮🇩.
+  Hi, I'm mhdengineering, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from East Lampung, Indonesia 🇮🇩.
   <br />
   <br />
-  🎓 Currently a high school student.
+  🎂 Born in South Lampung, March 28, 2000.
+  <br />
+  🎓 Informatics Engineering.
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
@@ -41,7 +43,7 @@
       <!-- first row -->
       <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=dark" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" />
           <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
         </picture>
           <br />
