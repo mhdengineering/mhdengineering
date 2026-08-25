@@ -11,7 +11,7 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm mhdengineering, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from East Lampung, Indonesia 🇮🇩.
+  Hi, I'm Mahindra, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from East Lampung, Indonesia 🇮🇩.
   <br />
   <br />
   🎂 Born in South Lampung, March 28, 2000.
@@ -20,7 +20,7 @@
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
-  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
+  🧑‍💼 I’m currently working as an ASN in Lampung Timur.
   <br />
 </p>
 
